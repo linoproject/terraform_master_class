@@ -4,7 +4,9 @@
 
 | *Date*     | *Release*| *Note*        |
 |------------|:--------:|---------------|
-| 2021-09-08 | 1.0      | First release |
+| 2024-08-08 | 1.0      | First release |
+|------------|----------|---------------|
+| 2024-10-22 | 1.1      | Add VM and Packer |
 
 ## Requirements
 1. DNS Server and a lab zone
